@@ -1,0 +1,24 @@
+{
+  "name": "basketstast1",
+  "version": "1.0.0",
+  "description": "Plataforma de análisis y seguimiento de estadísticas globales de baloncesto. Muestra datos de **180 jugadores** distribuidos en **6 ligas internacionales** con promedios de la temporada 2024-25.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonelAc/basketstast1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonelAc/basketstast1/issues"
+  },
+  "homepage": "https://github.com/LeonelAc/basketstast1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
